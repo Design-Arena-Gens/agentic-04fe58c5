@@ -1,0 +1,36 @@
+<svg width="512" height="256" viewBox="0 0 512 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lyftr-gradient" x1="40" y1="216" x2="200" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#6931FF" />
+      <stop offset="52%" stop-color="#826BFF" />
+      <stop offset="100%" stop-color="#6DF6DC" />
+    </linearGradient>
+    <linearGradient id="lyftr-glow" x1="120" y1="208" x2="192" y2="136" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="rgba(122, 118, 255, 0.5)" />
+      <stop offset="100%" stop-color="rgba(109, 246, 220, 0.5)" />
+    </linearGradient>
+  </defs>
+  <rect x="48" y="32" width="176" height="192" rx="56" fill="url(#lyftr-gradient)" />
+  <path
+    d="M112 192V112c0-8.84 7.16-16 16-16h16c8.84 0 16 7.16 16 16v80h-24c-13.25 0-24-10.75-24-24Z"
+    fill="white"
+    fill-opacity="0.96"
+  />
+  <path
+    d="M184 168l32.72-42.72c5.8-7.56 17.2-7.56 23 0L272 168c6.8 8.86 0.2 21.84-11.5 21.84h-64.96c-11.7 0-18.3-12.98-11.54-21.84Z"
+    fill="white"
+    fill-opacity="0.96"
+  />
+  <path
+    d="M186 208l20.4-25.1c6.1-7.31 17.79-7.31 23.89 0L250 208c7 8.65 0.72 21-11.81 21H197.8c-12.53 0-18.81-12.35-11.8-21Z"
+    fill="url(#lyftr-glow)"
+  />
+  <g transform="translate(256 64)">
+    <text fill="#0C1024" font-family="Poppins, 'Segoe UI', sans-serif" font-weight="600" font-size="64" letter-spacing="-0.03em">
+      Lyftr<tspan fill="#5C5EFF">Ai</tspan>
+    </text>
+    <text x="4" y="112" fill="#6A6EC2" font-family="Poppins, 'Segoe UI', sans-serif" font-size="20" letter-spacing="0.9em">
+      LIFTED&nbsp;INTELLIGENCE
+    </text>
+  </g>
+</svg>
